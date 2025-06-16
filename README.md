@@ -4,7 +4,7 @@
 <p align="center">
   🌱 I’m currently learning <strong>JavaScript</strong>, <strong>CSS</strong>, and <strong>responsive design</strong><br>
   🛠️ I'm building real-world projects to improve my skills<br>
-  📫 Reach me: <a href="mailto: jalalsadeq724@gmail.com</a><br>
+  📫 Reach me:<a href="mailto: jalalsadeq724@gmail.com</a><br>
   🌍 From Morocco
 </p>
 
