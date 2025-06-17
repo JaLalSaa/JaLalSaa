@@ -51,7 +51,7 @@ const nerix = {
 
 ## 🌐 Summon Me
 
-[![Email](https://img.shields.io/badge/-Send%20Scroll-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jalalsaa@example.com)
+[![Email](https://img.shields.io/badge/-Send%20Scroll-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jalalsaa724@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jalalsaa)
 
 ---
