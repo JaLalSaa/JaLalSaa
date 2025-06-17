@@ -1,50 +1,58 @@
-<h1 align="center">Hi 👋, I'm Jalal</h1>
-<h3 align="center">Front-End Developer | Passionate about web and UI/UX</h3>
+# ✦ NΞRIX | Apprentice of the Front-End ✦
 
-<p align="center">
-  🌱 I’m currently learning <strong>JavaScript</strong>, <strong>CSS</strong>, and <strong>responsive design</strong><br>
-  🛠️ I'm building real-world projects to improve my skills<br>
-  📫 Reach me: <a href="mailto: jalalsadeq724@gmail.com">jalalsadeq724@gmail.com</a><br>
-  🌍 From Morocco
-</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&color=00F7FF&center=true&vCenter=true&lines=Code+is+alchemy.;Pixels+are+my+weapons.;Crafting+web+realms...)
 
 ---
 
-### 🧠 What I'm focusing on now
+## 🧠 About Me
 
-- 🚀 Improving my JavaScript & DOM manipulation skills
-- 💡 Building responsive layouts with CSS & Flexbox/Grid
-- 🔧 Learning Git and GitHub for collaboration
-
----
-
-### 💼 Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-</p>
+```js
+const nerix = {
+  alias: "NΞRIX",
+  origin: "Morocco",
+  path: "Front-End Development",
+  tech: ["HTML", "CSS", "JavaScript", "TailwindCSS"],
+  currentlyLearning: ["DOM", "Git", "GitHub Pages"],
+  vibes: "Dark Mode | Pixel Precision | UI + UX dreams",
+}
+```
 
 ---
 
-### 📊 GitHub Stats
+## 🧰 Tools & Skills
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jalalsaa&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jalalsaa&theme=tokyonight" width="48%" />
-</p>
-
----
-
-### ⚡ Fun Facts
-
-- I like minimal UI and dark themes
-- I believe in learning by **building**
-- I often organize my notes in **Obsidian** 📓
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
+![Git](https://skillicons.dev/icons?i=git)
+![Figma](https://skillicons.dev/icons?i=figma)
+![VSCode](https://skillicons.dev/icons?i=vscode)
 
 ---
 
-<!-- Feel free to customize this section further -->
+## 🧪 Currently
+
+- 🔭 Building: **Mini UI Components**
+- 🧬 Exploring: **CSS Transitions + JS Events**
+- 🎯 Goal: **Craft clean interfaces like a pixel samurai**
+- 📜 Motto: *"Simplicity is the ultimate sophistication."*
+
+---
+
+## 📊 GitHub Stats
+
+![Jalal's GitHub stats](https://github-readme-stats.vercel.app/api?username=jalalsaa&theme=tokyonight&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jalalsaa&layout=compact&theme=tokyonight)
+
+---
+
+## 🌐 Connect With Me
+
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jalalsaa@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jalalsaa)
+
+---
+
+> “Silence is code compiling in peace...”
