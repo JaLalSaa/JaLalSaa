@@ -4,7 +4,7 @@
 
 ---
 
-> 🧙‍♂️ *"My journey began with a single `<div>`... now, there's no turning back."*
+> 🧙 *"My journey began with a single `<div>`... now, there's no turning back."*
 
 ---
 
