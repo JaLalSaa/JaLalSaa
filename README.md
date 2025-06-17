@@ -1,6 +1,6 @@
 # ⛩️ NΞRIX | Rookie Front-End Swordsman ⚔️
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&color=F779FF&center=true&vCenter=true&lines=Training+day+and+night...;Unleashing+the+power+of+CSS.;Coding+like+a+shonen+hero...)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&color=000&center=true&vCenter=true&lines=Training+day+and+night...;Unleashing+the+power+of+CSS.;Coding+like+a+shonen+hero...)
 
 ---
 
