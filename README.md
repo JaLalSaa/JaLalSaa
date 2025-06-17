@@ -1,58 +1,59 @@
-# ✦ NΞRIX | Apprentice of the Front-End ✦
+# ⛩️ NΞRIX | Rookie Front-End Swordsman ⚔️
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&color=00F7FF&center=true&vCenter=true&lines=Code+is+alchemy.;Pixels+are+my+weapons.;Crafting+web+realms...)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&color=F779FF&center=true&vCenter=true&lines=Training+day+and+night...;Unleashing+the+power+of+CSS.;Coding+like+a+shonen+hero...)
 
 ---
 
-## 🧠 About Me
+> 🧙‍♂️ *"My journey began with a single `<div>`... now, there's no turning back."*
+
+---
+
+## 🌌 Character Profile
 
 ```js
 const nerix = {
-  alias: "NΞRIX",
+  name: "NΞRIX",
+  role: "Front-End Trainee",
   origin: "Morocco",
-  path: "Front-End Development",
-  tech: ["HTML", "CSS", "JavaScript", "TailwindCSS"],
-  currentlyLearning: ["DOM", "Git", "GitHub Pages"],
-  vibes: "Dark Mode | Pixel Precision | UI + UX dreams",
+  level: 3,
+  skillsUnlocked: ["HTML", "GitHub", "VS Code"],
+  trainingNow: ["CSS", "JavaScript"],
+  motto: "No bugs shall survive my code blade 🗡️"
 }
 ```
 
 ---
 
-## 🧰 Tools & Skills
+## 🛠️ Arsenal (Current Weapons)
 
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
 ![JavaScript](https://skillicons.dev/icons?i=js)
-![Tailwind](https://skillicons.dev/icons?i=tailwind)
-![Git](https://skillicons.dev/icons?i=git)
-![Figma](https://skillicons.dev/icons?i=figma)
-![VSCode](https://skillicons.dev/icons?i=vscode)
+![vscode](https://skillicons.dev/icons?i=vscode)
+![github](https://skillicons.dev/icons?i=github)
 
 ---
 
-## 🧪 Currently
+## 🔥 Training Arc
 
-- 🔭 Building: **Mini UI Components**
-- 🧬 Exploring: **CSS Transitions + JS Events**
-- 🎯 Goal: **Craft clean interfaces like a pixel samurai**
-- 📜 Motto: *"Simplicity is the ultimate sophistication."*
+- 📖 Studying **CSS** scrolls and layout arts
+- 🧪 Practicing JavaScript techniques in secret dojo
+- 👾 Battling bugs on solo quests
+- 💡 Unlocking the power of `flex`, `grid`, and `functions`
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Power Stats
 
 ![Jalal's GitHub stats](https://github-readme-stats.vercel.app/api?username=jalalsaa&theme=tokyonight&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jalalsaa&layout=compact&theme=tokyonight)
+---
+
+## 🌐 Summon Me
+
+[![Email](https://img.shields.io/badge/-Send%20Scroll-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jalalsaa@example.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jalalsaa)
 
 ---
 
-## 🌐 Connect With Me
-
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jalalsaa@example.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jalalsaa)
-
----
-
-> “Silence is code compiling in peace...”
+> 🧩 *"Discipline, patience, and code... that's how legends are born."*
