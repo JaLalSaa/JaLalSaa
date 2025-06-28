@@ -1,4 +1,4 @@
-<h1 align="center" style="color:#333;">🌫️ JaLal Saa</h1>
+<h1 align="center" style="color:#333;">🌫️ JaLal Saa 🌫️</h1>
 
 <p align="center"><em>"Quiet minds create profound things."</em></p>
 
