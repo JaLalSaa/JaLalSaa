@@ -49,7 +49,7 @@
 
 <p align="center">
   <a href="mailto:jalalsadeq724@gmail.com"><img src="https://img.shields.io/badge/email-EAEAEA?style=for-the-badge&logo=gmail&logoColor=black&labelColor=EAEAEA&color=EAEAEA&labelColor=EAEAEA&fontColor=black" /></a>
-  <a href="https://instagram.com/nerix_v0"><img src="https://img.shields.io/badge/Instagram-EAEAEA?style=for-the-badge&logo=instagram&logoColor=black&labelColor=EAEAEA&color=EAEAEA&fontColor=black" /></a>
+  <img src="https://img.shields.io/badge/Instagram-EAEAEA?style=flat&logo=instagram&logoColor=black" />
   <a href="https://github.com/JaLalSaa"><img src="https://img.shields.io/badge/GitHub-EAEAEA?style=for-the-badge&logo=github&logoColor=black&labelColor=EAEAEA&color=EAEAEA&fontColor=black" /></a>
 </p>
 
