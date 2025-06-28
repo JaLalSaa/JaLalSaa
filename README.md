@@ -1,6 +1,6 @@
-<h1 align="center">🌌 JaLal Saa</h1>
+<h1 align="center" style="color:#333;">🕊️ JaLal Saa</h1>
 
-<p align="center"><em>"Simplicity is not about less. It's about clarity."</em></p>
+<p align="center"><em>"Quiet minds create profound things."</em></p>
 
 ---
 
@@ -17,7 +17,15 @@
 
 ---
 
+## 🧰 Toolbox
 
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-E5E5E5?style=for-the-badge&logo=html5&logoColor=black" />
+  <img src="https://img.shields.io/badge/CSS-CFCFCF?style=for-the-badge&logo=css3&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/VS_Code-CCCCCC?style=for-the-badge&logo=visual-studio-code&logoColor=black" />
+  <img src="https://img.shields.io/badge/GitHub-999999?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 ---
 
