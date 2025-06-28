@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/HTML-E5E5E5?style=for-the-badge&logo=html5&logoColor=black" />
   <img src="https://img.shields.io/badge/CSS-E5E5E5?style=for-the-badge&logo=css3&logoColor=black" />
   <img src="https://img.shields.io/badge/JavaScript-E5E5E5?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/VS_Code-E5E5E5?style=for-the-badge&logo=visual-studio-code&logoColor=black" />
+  <img src="https://img.shields.io/badge/VS_Code-E5E5E5?style=for-the-badge&logo=visualstudiocode&logoColor=black" />
   <img src="https://img.shields.io/badge/GitHub-E5E5E5?style=for-the-badge&logo=github&logoColor=black" />
 </p>
 
