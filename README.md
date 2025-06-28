@@ -4,7 +4,7 @@
 
 ---
 
-## ☄️ Character File
+## 🌀 Character File
 
 ```
 🎮 Identity     : JaLal Saa
