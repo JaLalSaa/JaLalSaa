@@ -1,4 +1,4 @@
-<h1 align="center" style="color:#333;">🌫️ JaLal Saa 🌫️</h1>
+<h1 align="center" style="color:#333;">🌫️ JaLalSaa 🌫️</h1>
 
 <p align="center"><em>"Quiet minds create profound things."</em></p>
 
@@ -7,7 +7,7 @@
 ## 🌀 Character File
 
 ```
-🎮 Identity     : JaLal Saa
+🎮 Identity     : JaLalSaa
 🌍 Location     : Morocco
 🌱 Current Path : Front-End Web Development
 📚 Learning     : JavaScript
@@ -56,4 +56,4 @@
 ---
 
 <p align="center"><em>"In silence, I build. In clarity, I grow."</em></p>
-<p align="center">Designed with stillness and purpose — <strong>JaLal Saa</strong></p>
+<p align="center">Designed with stillness and purpose — <strong>JaLalSaa</strong></p>
