@@ -17,7 +17,7 @@
 
 ---
 
-## 🧰 Toolbox
+## 🧰 Tools & Technologies
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-E5E5E5?style=for-the-badge&logo=html5&logoColor=black" />
