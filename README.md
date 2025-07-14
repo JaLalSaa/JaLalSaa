@@ -40,7 +40,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaLalSaa&layout=compact&theme=graywhite&hide_border=true" alt="Top Languages" />
 </p>
-
 ---
 
 ## 📬 Contact
