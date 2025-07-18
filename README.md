@@ -33,8 +33,6 @@
 
 ## 📊 Calm Dev Stats
 
-## 📊 Calm Dev Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JaLalSaa&show_icons=true&theme=graywhite&hide_border=true" alt="GitHub Stats" />
 </p>
