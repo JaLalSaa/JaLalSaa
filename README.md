@@ -33,12 +33,22 @@
 
 ## 📊 Calm Dev Stats
 
+## 📊 Calm Dev Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JaLalSaa&show_icons=true&theme=graywhite&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JaLalSaa&theme=graywhite&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaLalSaa&layout=compact&theme=graywhite&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JaLalSaa&theme=graywhite&no-frame=true&no-bg=true" alt="GitHub Trophies" />
 </p>
 
 ---
