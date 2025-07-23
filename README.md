@@ -1,36 +1,56 @@
-<h1 align="center">JaLalSaa</h1>
+# JaLalSaa
 
-<p align="center"><em>Front-End Developer — simplicity is strength.</em></p>
-
----
-
-## 💡 Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-1a1a1a?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1a1a1a?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-1a1a1a?style=flat-square&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-1a1a1a?style=flat-square&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-1a1a1a?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-1a1a1a?style=flat-square&logo=visualstudiocode&logoColor=white" />
+<p align="center" style="color:#444;">
+  <em>Front-End Developer | Focused. Minimal. Impactful.</em><br>
+  <strong><em>Simplicity is strength.</em></strong>
 </p>
 
 ---
 
-## 📊 Languages Used
+## 👋 Who I Am
+
+<span style="color:#555;">
+Hi, I'm JaLalSaa — a front-end developer from Morocco.  
+Focused on clean UI, simplicity, and continuous learning.  
+Currently diving into JavaScript and modern UI frameworks.
+</span>
+
+---
+
+## 🛠️ My Current Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaLalSaa&layout=compact&hide_border=true&theme=graywhite" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,git,github,vscode&theme=light" alt="Skills Icons" />
 </p>
 
 ---
 
-## 📈 Activity Overview
+## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JaLalSaa&show_icons=true&hide_border=true&theme=graywhite" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JaLalSaa&show_icons=true&hide_border=true&theme=radical&custom_title=GitHub+Overview" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaLalSaa&layout=compact&hide_border=true&theme=radical" alt="Top Languages" height="170" />
 </p>
 
 ---
 
-<p align="center"><em>“Build silently. Deliver boldly.”</em></p>
+## 📬 How to Reach Me
+
+<p align="center">
+  <a href="mailto:jalalsadeq724@gmail.com">
+    <img src="https://img.shields.io/badge/email-%23000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://instagram.com/nerix_v0">
+    <img src="https://img.shields.io/badge/Instagram-%23000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://github.com/JaLalSaa">
+    <img src="https://img.shields.io/badge/GitHub-%23000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+<p align="center" style="color:#666;">
+  <em>“Silence isn’t empty. It’s full of clean code.”</em><br>
+  <strong>~ JaLalSaa</strong>
+</p>
