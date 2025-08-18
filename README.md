@@ -40,7 +40,7 @@ Currently diving into JavaScript and modern UI frameworks.
   <a href="mailto:jalalsadeq724@gmail.com">
     <img src="https://img.shields.io/badge/email-%23000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://instagram.com/jalalsaa_dev">
+  <a href="https://instagram.com/jalalsaa.v">
     <img src="https://img.shields.io/badge/Instagram-%23000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://github.com/JaLalSaa">
